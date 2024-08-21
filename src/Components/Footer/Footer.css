@@ -1,0 +1,29 @@
+.shopper{
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 550px;
+}
+.footer-links{
+    margin-left: 400px;
+}
+.footer-social-icon{
+    display: flex;
+    margin-left: 540px;
+   
+}
+.insta{
+    height: 50px;
+    width: 50px;
+}
+.pinterest{
+    height: 50px;
+    width: 50px;
+}
+.whatsapp{
+    height: 50px;
+    width: 50px;
+}
+.footer-copyright p{
+    margin-left: 500px;
+}

@@ -1,0 +1,40 @@
+.loginsingup{
+    width: 100%;
+    background-color: #fce3fe;
+    padding-top: 80px;
+    margin-top: 80px;
+}
+.loginsingup-container{
+    width: 580px;
+    height: 450px;
+    background: white;
+    margin: auto;
+    padding: 40px 60px;
+}
+.loginsingup-container h1{
+    margin: 20px 0px;
+}
+.loginsingup-fields{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 30px;
+}
+.loginsingup button{
+    width: 450px;
+    margin-top: 15px;
+    background: red;
+    color: white;
+}
+.loginsingup span{
+    color: red;
+}
+.loginsingup-agree{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    gap: 20px;
+    color: #5c5c5c;
+    font-size: 18px;
+    font-weight: 500;
+}

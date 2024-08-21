@@ -1,0 +1,23 @@
+body{
+  overflow-x: hidden;
+}
+.search input{
+  width: 300px;
+  padding-left: 2rem;
+}
+.search i{
+  position: relative;
+  left: 23px;
+  top: -2px;
+}
+.login{
+  padding: 0px 50px;
+}
+.login input{
+  border: 1px solid black;
+  /* border-bottom: 1px solid #c6c6c6; */
+  border-radius: 5px;
+  height: 40px;
+  width: 75%;
+}
+

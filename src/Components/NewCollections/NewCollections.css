@@ -1,0 +1,34 @@
+
+.new-collections{
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .new-collections h1{
+    color: #171717;
+    font-size: 50px;
+    font-weight: 600;
+    padding-left: 30%;
+}
+.new-collections hr{
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background: #252525;
+    margin-left: 40%;
+}
+.collections{
+    /* margin-top: 50px;
+    gap: 10px;
+    padding-left: 30px; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: -10px;
+    
+ }
+ .collection-item old_price{
+    text-decoration: line-through;
+ }
